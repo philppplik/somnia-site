@@ -1,0 +1,39 @@
+# Somnia
+
+> Somnia is a visual web design studio in development: a real browser canvas, clean HTML and CSS you own, and (planned) an AI that sees your design. It is positioned as a modern Dreamweaver alternative. Status: concept in development. Only a browser prototype (Phase 0) exists. There is no native app, installer, price or license yet.
+
+Made by Philipp Paulik (https://philipp-paulik.de/).
+
+## Pages
+
+- [About Somnia](https://somnia.philipp-paulik.de/about/): vision, principles, features, honest status, roadmap and FAQ.
+- [Phase 0 prototype](https://somnia.philipp-paulik.de/): working browser prototype with design, split and code view, layers tree, responsive breakpoints, multi-file projects, ZIP export. No account needed.
+
+## Key facts
+
+- Exists today: browser prototype, in-place text editing, drag and drop, shared undo, tablet/mobile overrides as real media queries, local folder open and save (Chromium only).
+- Does not exist yet: native desktop app, AI layer (Oneiroi), Tailwind/Bootstrap/React/Vue support, extension SDK, pricing, downloads.
+- Design targets (not measured yet): installer under 10 MB, cold start under 800 ms, idle memory under 80 MB.
+- Principle: plain HTML, CSS and JS files on your disk, no project format, no lock-in.
+- Roadmap: Phase 0 foundation (live), Phase 1 core WYSIWYG (closed alpha), Phase 2 frameworks and polish (public beta), Phase 3 professional features, Phase 4-5 launch.
+
+## Optional
+
+- [Sitemap](https://somnia.philipp-paulik.de/sitemap.xml)
+
+## FAQ
+
+### What is Somnia?
+Somnia is a visual web design studio that is currently in development. It renders your page on a real browser canvas, writes clean HTML and CSS that you own, and is planned to include an AI layer that sees your design. A browser prototype (Phase 0) is available today.
+
+### Is Somnia a Dreamweaver alternative?
+That is the goal. Somnia targets people who liked the split code and design view of Dreamweaver and want a fast, modern tool that keeps plain HTML and CSS as the real product. It is not a finished replacement yet: the native desktop app does not exist and only the browser prototype is available.
+
+### Can I download Somnia?
+Not yet. There is no installer, no price and no license key. You can open the Phase 0 prototype in a Chromium, Firefox or Safari browser without an account. Opening and saving local folders works in Chromium browsers.
+
+### Does Somnia lock my work into a project format?
+No. The design principle is plain HTML, CSS and JS files on your disk that you can export or deploy anywhere.
+
+### What is planned next?
+Phase 1 is a core visual editor for building a simple page, as a closed alpha. After that come Tailwind and Bootstrap support, an AI layer with diff review, an accessibility audit, a deploy panel, and finally native installers.
