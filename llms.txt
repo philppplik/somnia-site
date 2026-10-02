@@ -1,0 +1,22 @@
+# Somnia
+
+> Somnia is a visual web design studio in development: a real browser canvas, clean HTML and CSS you own, and (planned) an AI that sees your design. It is positioned as a modern Dreamweaver alternative. Status: concept in development. Only a browser prototype (Phase 0) exists. There is no native app, installer, price or license yet.
+
+Made by Philipp Paulik (https://philipp-paulik.de/).
+
+## Pages
+
+- [About Somnia](https://somnia.philipp-paulik.de/about/): vision, principles, features, honest status, roadmap and FAQ.
+- [Phase 0 prototype](https://somnia.philipp-paulik.de/): working browser prototype with design, split and code view, layers tree, responsive breakpoints, multi-file projects, ZIP export. No account needed.
+
+## Key facts
+
+- Exists today: browser prototype, in-place text editing, drag and drop, shared undo, tablet/mobile overrides as real media queries, local folder open and save (Chromium only).
+- Does not exist yet: native desktop app, AI layer (Oneiroi), Tailwind/Bootstrap/React/Vue support, extension SDK, pricing, downloads.
+- Design targets (not measured yet): installer under 10 MB, cold start under 800 ms, idle memory under 80 MB.
+- Principle: plain HTML, CSS and JS files on your disk, no project format, no lock-in.
+- Roadmap: Phase 0 foundation (live), Phase 1 core WYSIWYG (closed alpha), Phase 2 frameworks and polish (public beta), Phase 3 professional features, Phase 4-5 launch.
+
+## Optional
+
+- [Sitemap](https://somnia.philipp-paulik.de/sitemap.xml)
