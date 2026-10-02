@@ -10,7 +10,11 @@ Made by Philipp Paulik (https://philipp-paulik.de/).
 - [Phase 0 prototype](https://somnia.philipp-paulik.de/): working browser prototype with design, split and code view, layers tree, responsive breakpoints, multi-file projects, ZIP export. No account needed.
 - [Features](https://somnia.philipp-paulik.de/features/): every feature marked as working in the prototype or planned.
 - [Planned pricing](https://somnia.philipp-paulik.de/pricing/): working pricing plan, not final, nothing for sale yet.
-- [Compare](https://somnia.philipp-paulik.de/compare/): honest comparisons with Dreamweaver, Webflow, WordPress and Figma.
+- [Compare](https://somnia.philipp-paulik.de/compare/): honest comparisons with Dreamweaver, Webflow, WordPress and Figma, plus Framer, Pinegrow, Bootstrap Studio and VS Code.
+- [Compare: Framer](https://somnia.philipp-paulik.de/compare/framer-alternative/), [Pinegrow](https://somnia.philipp-paulik.de/compare/pinegrow-alternative/), [Bootstrap Studio](https://somnia.philipp-paulik.de/compare/bootstrap-studio-alternative/), [VS Code](https://somnia.philipp-paulik.de/compare/vscode-alternative/): fair comparisons that say where the other tool is the better choice.
+- [For freelancers](https://somnia.philipp-paulik.de/for/freelancers/), [for agencies](https://somnia.philipp-paulik.de/for/agencies/), [for students](https://somnia.philipp-paulik.de/for/students/): what is planned for each audience and what works today.
+- [Roadmap](https://somnia.philipp-paulik.de/roadmap/): phases 0 to 5, no dates promised.
+- [Oneiroi AI layer](https://somnia.philipp-paulik.de/features/ai/): planned AI that sees the canvas and shows diffs. Not built.
 - [Migrate from Dreamweaver](https://somnia.philipp-paulik.de/migrate/): what opens today and what is not supported.
 - [FAQ](https://somnia.philipp-paulik.de/faq/): short answers about status, pricing and AI.
 
