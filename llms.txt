@@ -8,6 +8,11 @@ Made by Philipp Paulik (https://philipp-paulik.de/).
 
 - [About Somnia](https://somnia.philipp-paulik.de/about/): vision, principles, features, honest status, roadmap and FAQ.
 - [Phase 0 prototype](https://somnia.philipp-paulik.de/): working browser prototype with design, split and code view, layers tree, responsive breakpoints, multi-file projects, ZIP export. No account needed.
+- [Features](https://somnia.philipp-paulik.de/features/): every feature marked as working in the prototype or planned.
+- [Planned pricing](https://somnia.philipp-paulik.de/pricing/): working pricing plan, not final, nothing for sale yet.
+- [Compare](https://somnia.philipp-paulik.de/compare/): honest comparisons with Dreamweaver, Webflow, WordPress and Figma.
+- [Migrate from Dreamweaver](https://somnia.philipp-paulik.de/migrate/): what opens today and what is not supported.
+- [FAQ](https://somnia.philipp-paulik.de/faq/): short answers about status, pricing and AI.
 
 ## Key facts
 
